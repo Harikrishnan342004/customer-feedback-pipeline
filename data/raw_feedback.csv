@@ -1,0 +1,11 @@
+CustomerID,Name,Feedback,Rating,Date
+1001,Raj,"Great service and support",5,2025-07-01
+1002,Priya,"Okay experience",3,2025-07-02
+1003,Arjun,"Very bad",1,2025-07-03
+1004,Kavya,"Loved the speed",4,2025-07-03
+1005,Manoj,"Terrible",1,2025-07-04
+1006,Aisha,"Good job",4,2025-07-04
+1007,Vinay,"Service was decent",3,2025-07-05
+1008,Divya,"Too slow",2,2025-07-05
+1009,Sameer,"Perfect help",5,2025-07-06
+1010,Meena,"Could be better",2,2025-07-06
